@@ -1,0 +1,32 @@
+package Ejercicios_Repaso_Clases;
+
+public class Alumno {
+
+	private Alumno alumno1;
+	private Alumno alumno2;
+	private Alumno alumno3;
+	
+	
+	public Alumno getAlumno1() {
+		return alumno1;
+	}
+	public void setAlumno1(Alumno alumno1) {
+		this.alumno1 = alumno1;
+	}
+	public Alumno getAlumno2() {
+		return alumno2;
+	}
+	public void setAlumno2(Alumno alumno2) {
+		this.alumno2 = alumno2;
+	}
+	public Alumno getAlumno3() {
+		return alumno3;
+	}
+	public void setAlumno3(Alumno alumno3) {
+		this.alumno3 = alumno3;
+	}
+	
+	
+		
+	
+}

@@ -1,0 +1,20 @@
+package Ejercicios_Repaso_Clases;
+
+public class Profesor {
+
+	
+	
+	
+	
+	
+	//METODOS.
+/*-----------------------------------------------------------*/
+	protected void PonerNota(Alumno alumno) {
+		
+		
+		
+	}
+	
+	
+	
+}

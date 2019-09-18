@@ -1,0 +1,44 @@
+package Ejercicios_Repaso_Clases;
+
+public class Alumno {
+
+	private Alumno asig1;
+	private Alumno asig2;
+	private Alumno asig3;
+	
+	public Alumno(Asignatura asig1, Asignatura asig2, Asignatura asig3) {
+		 
+	}
+	
+	public Alumno(int asig1, int asig2, int asig3) {
+		
+	}
+	
+	
+	public Alumno getAsig1() {
+		return asig1;
+	}
+	public void setAsig1(Alumno asig1) {
+		this.asig1 = asig1;
+	}
+	public Alumno getAsig2() {
+		return asig2;
+	}
+	public void setAsig2(Alumno asig2) {
+		this.asig2 = asig2;
+	}
+	public Alumno getAsig3() {
+		return asig3;
+	}
+	public void setAsig3(Alumno asig3) {
+		this.asig3 = asig3;
+	}
+	
+	
+
+	
+	
+	
+		
+	
+}
